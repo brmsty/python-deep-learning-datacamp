@@ -1,6 +1,6 @@
 #Last steps in classification models Solution of Data Camp
 
-mport keras
+import keras
 from keras.layers import Dense
 from keras.models import Sequential
 from keras.utils import to_categorical
